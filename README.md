@@ -15,15 +15,17 @@ I have not modelled any particular disease—the parameters governing the extent
 
 ## Files
 
-The project is divided into two main files:
+The project is divided into two code files:
 - Simulating Vaccine Strategies in an Epidemic.ipynb
 	- This file contains the code for the simulation and a exhaustive description of the background, assumptions and mathematics required to understand the code.
 - Hypothesis Testing.Rmd
 	- This file uses the simulated data produced by the simulation. It contains all descriptions and the code pertaining to statistical analysis and hypothesis testing.
 
+The simulation output can be found in results.csv
+
 ## Planned Improvements
 
-- The `initialize_spread_params` function contains repetitive code. This can be condensed.
+- The `initialize_spread_params` function contains repetitive code. Condense this.
 - Separate background and model description into it's own file, away from the simulation code.
 - Add background on the statistical tests used and why they were chosen.
 
