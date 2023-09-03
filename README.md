@@ -6,7 +6,7 @@ In this project, I simulated epidemic spread with and without preventative measu
 - Epidemic spread with basic preventative measures and vaccinations—scenario A
 - Epidemic spread with basic preventative measures and vaccinations—scenario B
 
-I ran the simulation 200 times for each case and used an ANOVA F-test and a  Kruskal-Wallis test to determine if there is any significant difference between the epidemic durations/infection attack rates between all four models.
+I ran the simulation 1000 times for each case and used an ANOVA F-test and a  Kruskal-Wallis test to determine if there is any significant difference between the epidemic durations/infection attack rates between all four models.
 
 I have not modelled any particular disease—the parameters governing the extent and speed of epidemic spread are generated randomly within certain bounds.
 
