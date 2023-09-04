@@ -2,7 +2,7 @@
 title: "Epidemic Simulation—Hypothesis Testing"
 author: "GRK"
 date: "2023-09-02"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
