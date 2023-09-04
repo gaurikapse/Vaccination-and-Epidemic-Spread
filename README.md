@@ -25,11 +25,12 @@ I have not modelled any particular disease—the parameters governing the extent
 
 ## Files
 
-The project is divided into two code files:
+The project code is divided into two files:
 - Simulating Vaccine Strategies in an Epidemic.ipynb
 	- This file contains the code for the simulation and a exhaustive description of the background, assumptions and mathematics required to understand the simulation.
 - Hypothesis Testing.Rmd
 	- This file uses the simulated data produced by the simulation. It contains all descriptions and the code pertaining to statistical analysis and hypothesis testing.
+ 	- A third file 'Hypothesis Testing.md' contains the same content as Hypothesis Testing.Rmd for easy visualization
 
 The simulation output can be found in results.csv
 
