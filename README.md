@@ -37,6 +37,7 @@ The simulation output can be found in results.csv
 ## Planned Improvements
 
 - The `initialize_spread_params` function contains repetitive code. Condense this.
+- Add docstrings to simulation functions.
 - Separate background and model description into it's own file, away from the simulation code.
 - Add background on the statistical tests used and why they were chosen.
 
